@@ -169,3 +169,15 @@ main section{
     font-weight: 400;
     text-align: left;
 }
+
+/* Resume container */
+.section-title{
+    text-align: center;
+}
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+.resume-btn{
+    margin-top: 50px;
+}
